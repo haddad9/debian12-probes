@@ -7,6 +7,11 @@ root    ALL=(ALL:ALL) ALL
 user_name ALL=(ALL) ALL
 ..
 ```
+
+## ❌  rootless docker installation 
+[docker-docs](https://docs.docker.com/engine/security/rootless/#prerequisites)
+this is needed to run docker without root privelege
+
 ## ❌ make caps and shift available for custom shortcut
 [github custom gnome keyboard for input source]( https://github.com/madhead/shyriiwook )
-``
+
