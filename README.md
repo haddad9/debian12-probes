@@ -6,3 +6,7 @@ This repository is personal documentation to track all problems and how its solv
 - Keyboard shortcuts
 - etc
 
+
+notes: 
+✅ : means problems solved 
+❌ : haven't solved yet / solution not implmented yet in my system 
