@@ -1,5 +1,5 @@
-# Debian probes
-This repository is personal documentation to track all problems and how its solved related to my debian 12 journey, including and not limited to: 
+#  probes
+This repository is personal documentation to track all problems and how its solved related to my software journey, including and not limited to: 
 - Library installation 
 - OS permissions problems
 - Appearence settings
@@ -8,6 +8,6 @@ This repository is personal documentation to track all problems and how its solv
 
 
 notes: 
-✅ : means problems solved 
 
+✅ : means problems solved 
 ❌ : haven't solved yet / solution not implmented yet in my system 
