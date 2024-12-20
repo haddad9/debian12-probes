@@ -8,6 +8,13 @@ user_name ALL=(ALL) ALL
 ..
 ```
 
+## ✅ 
+```bash
+sudo apt update
+sudo apt upgrade
+sudo apt install bash-completion
+```
+
 ## ❌  rootless docker installation 
 [docker-docs](https://docs.docker.com/engine/security/rootless/#prerequisites)
 this is needed to run docker without root privelege
