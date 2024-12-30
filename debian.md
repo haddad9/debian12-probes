@@ -16,6 +16,12 @@ libbz2-dev libreadline-dev libsqlite3-dev curl git \
 libncursesw5-dev xz-utils tk-dev libxml2-dev libxmlsec1-dev libffi-dev liblzma-dev
 ```
 
+## Bluetooth earphone error poor quality ✅ 
+**problems**: the default bluetooth profile connected to the OS is HSP
+**solution**: change the bluetooth profile ro A2DPSink using [ SBC Codec ](https://askubuntu.com/questions/765233/pulseaudio-fails-to-set-card-profile-to-a2dp-sink-how-can-i-see-the-logs-and/773391#773391)
+
+
+
 ## ❌  rootless docker installation 
 [docker-docs](https://docs.docker.com/engine/security/rootless/#prerequisites)
 this is needed to run docker without root privelege
