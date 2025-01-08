@@ -29,3 +29,7 @@ this is needed to run docker without root privelege
 ## ❌ make caps and shift available for custom shortcut
 [github custom gnome keyboard for input source]( https://github.com/madhead/shyriiwook )
 
+## ❌ mouse bluetooth device not detected in debian 12
+- [ stack exchange link ](https://unix.stackexchange.com/questions/588252/how-do-i-pair-a-bluetooth-mouse-in-debian)
+- problem: cannot pair and bt not detected
+- cannot install bluez-tool but still need work around to build the binary from the [ repo ](https://github.com/khvzak/bluez-tools)
